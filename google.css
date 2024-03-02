@@ -1,0 +1,46 @@
+pre{
+    
+    font-size: 100px;
+    padding-left:600px;
+
+    
+}
+.but button{
+    height:50px;
+    width:50%;
+    margin-left: 400px;
+    border-radius: 30px;
+}
+
+.bi-search{
+    padding-right: 300px;
+}
+.bi-camera{
+    padding-left: 10px;
+}
+
+.ton button{
+    width:10%;
+    height:30px;
+    display: flex;
+    border-radius:none;
+    margin-left: 30%;
+    float:left;
+    padding-left: 30px;
+    
+}
+.in{
+    background-color:white;
+    color: black;
+    padding:10px;
+    border:1px solid black;
+    
+}
+.enquiry{
+    background-color: white;
+    color:black;
+    padding:10px;
+    border:1px solid black;
+
+
+}
