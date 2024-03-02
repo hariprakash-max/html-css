@@ -1,0 +1,109 @@
+.template-box {
+    width: 40%;
+    height: 40%;
+    background-color:rgb(254, 54, 54);
+    border: 1px solid black;
+    padding: 50px;
+    margin: auto;
+    box-sizing: content-box;
+ }  
+ pre{
+   font-size: 200px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   text-align: center;
+   border:1px solid white;
+  
+   
+}
+   
+ .asian-item{
+    margin:10px;
+    padding:auto;
+    color: black;
+    font-size :50px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ 
+ }
+ .japan{
+   padding-left:70%;
+ }
+
+ h1{
+    color:white;
+    font-size: 100px;   
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .china{
+   font-size: 50px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   padding-left:none; 
+   
+}
+ 
+ .western-item{
+    margin:10px;
+    padding:auto;
+    color: black;
+    font-size :50px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .london{
+   padding-left: none;
+
+ }
+
+ h2{
+    font-size:100px ;
+    color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .paris{
+   font-size:50px ;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+
+ .indian-item{
+    margin:10px;
+    padding:auto;
+    color: black;
+    font-size :50px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .chennai{
+   padding-left: 70%;
+
+ }
+ h3{
+    font-size: 100px;
+    color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .tamil{
+   font-size:50px ;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+
+ .american-item{
+    margin:10px;
+    padding:auto;
+    color: black;
+    font-size :50px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+.york{
+   padding-left: none;
+}
+
+ h4{
+    font-size: 100px;
+    color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .new{
+   font-size:50px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ 
+ 
+
